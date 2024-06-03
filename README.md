@@ -7,7 +7,7 @@
 - [✅] Tidy up build process
 - [✅] Set up DB
 - [✅] Attach DB to UI
-- [ ] Add Authentication
+- [✅] Add Authentication
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
 - [ ] Add Routing/ Image page
