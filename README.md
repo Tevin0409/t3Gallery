@@ -5,8 +5,8 @@
 - [✅] Make it deployable (vercel)
 - [✅] Scaffold basic ui with mock data
 - [✅] Tidy up build process
-- [ ] Set up DB
-- [ ] Attach DB to UI
+- [✅] Set up DB
+- [✅] Attach DB to UI
 - [ ] Add Authentication
 - [ ] Add image upload
 - [ ] Error management (w/ Sentry)
