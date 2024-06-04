@@ -10,7 +10,7 @@
 - [✅] Add Authentication
 - [✅] Add image upload
 - [❌] "taint" (Handle server behavio)
-- [ ] Error management (w/ Sentry)
+- [✅] Error management (w/ Sentry)
 - [ ] Add Routing/ Image page
 - [ ] Add Delete button
 - [ ] Analytics
