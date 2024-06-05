@@ -11,7 +11,7 @@
 - [✅] Add image upload
 - [❌] "taint" (Handle server behavio)
 - [✅] Error management (w/ Sentry)
-- [✅] Add Routing/ Image page
+- [✅] Add Parallel Routing/ Image page
 - [ ] Add Delete button
 - [ ] Analytics
 - [ ] Ratelimiting (upstash)
