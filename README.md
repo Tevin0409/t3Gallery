@@ -12,7 +12,7 @@
 - [❌] "taint" (Handle server behavio)
 - [✅] Error management (w/ Sentry)
 - [✅] Add Parallel Routing/ Image page
-- [ ] ShadUIify components (toast messages)
+- [✅] ShadUIify components (toast messages)
 - [ ] Add Delete button
 - [ ] Analytics
 - [ ] Ratelimiting (upstash)
